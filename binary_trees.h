@@ -1,4 +1,4 @@
-#if !defined(BINARY_TREES)
+#ifndef BINARY_TREES
 #define BINARY_TREES
 
 /**Standard Library*/
